@@ -4,17 +4,17 @@
 The **Word Counter** project is a Python-based program that counts the number of words in a given sentence or paragraph. This project was developed as part of a Python programming internship to strengthen understanding and application of core Python concepts such as input handling, string manipulation, function creation, and error handling.
 
 ## Features
-**1. User Input**: The program prompts the user to enter a sentence or paragraph.
-**2. Word Count Logic**: A function is implemented to count the number of words in the user input.
-**3. Error Handling**: Accounts for empty inputs and displays an appropriate message.
-**4. User-Friendly Interface**: Provides clear and concise prompts for input and output display.
+**1. User Input**: The program prompts the user to enter a sentence or paragraph.<br/>
+**2. Word Count Logic**: A function is implemented to count the number of words in the user input.<br/>
+**3. Error Handling**: Accounts for empty inputs and displays an appropriate message.<br/>
+**4. User-Friendly Interface**: Provides clear and concise prompts for input and output display.<br/>
 **5. Code Comments**: The code is fully documented with comments explaining key parts of the logic.
 
 ## Project Objectives
-**Learn how to handle user input in Python.**
-**Explore string manipulation techniques to efficiently process text.**
-**Practice function creation for modular programming.**
-**Implement basic control flow for structured logic.**
+**Learn how to handle user input in Python.**<br/>
+**Explore string manipulation techniques to efficiently process text.**<br/>
+**Practice function creation for modular programming.**<br/>
+**Implement basic control flow for structured logic.**<br/>
 **Provide a clear output displaying the word count.**
 
 ## Requirements
