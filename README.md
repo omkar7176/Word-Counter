@@ -11,14 +11,14 @@ The **Word Counter** project is a Python-based program that counts the number of
 **5. Code Comments**: The code is fully documented with comments explaining key parts of the logic.
 
 ## Project Objectives
-**Learn how to handle user input in Python.**<br/>
-**Explore string manipulation techniques to efficiently process text.**<br/>
-**Practice function creation for modular programming.**<br/>
-**Implement basic control flow for structured logic.**<br/>
-**Provide a clear output displaying the word count.**
+- **Learn how to handle user input in Python.**<br/>
+- **Explore string manipulation techniques to efficiently process text.**<br/>
+- **Practice function creation for modular programming.**<br/>
+- **Implement basic control flow for structured logic.**<br/>
+- **Provide a clear output displaying the word count.**
 
 ## Requirements
-**Python 3.x**
+- **Python 3.x**
 
 ## How to Run the Project
 **1. Clone the repository**:
